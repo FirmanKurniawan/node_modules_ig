@@ -1,0 +1,71 @@
+{
+  "_from": "snakecase-keys@^3.1.0",
+  "_id": "snakecase-keys@3.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-NrzHj8ctStnd1LYx3+L4buS7yildFum7WAbQQxkhPCNi3Qeqv7hoBne2c9n++HWxDG9Nv23pNEyyLCITZTv24Q==",
+  "_location": "/snakecase-keys",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "snakecase-keys@^3.1.0",
+    "name": "snakecase-keys",
+    "escapedName": "snakecase-keys",
+    "rawSpec": "^3.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.1.0"
+  },
+  "_requiredBy": [
+    "/instagram-private-api"
+  ],
+  "_resolved": "https://registry.npmjs.org/snakecase-keys/-/snakecase-keys-3.1.2.tgz",
+  "_shasum": "afb05f2c5b63e84a4e3d6c8c117c99a0026a839c",
+  "_spec": "snakecase-keys@^3.1.0",
+  "_where": "E:\\1\\node_modules\\instagram-private-api",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "bugs": {
+    "url": "https://github.com/bendrucker/snakecase-keys/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "map-obj": "^4.0.0",
+    "to-snake-case": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Convert an object's keys to snake case",
+  "devDependencies": {
+    "standard": "^14.0.0",
+    "tape": "^4.0.0",
+    "tsd": "^0.11.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "homepage": "https://github.com/bendrucker/snakecase-keys#readme",
+  "keywords": [
+    "snake",
+    "case",
+    "camel",
+    "keys",
+    "object"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "snakecase-keys",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/snakecase-keys.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js && tsd"
+  },
+  "version": "3.1.2"
+}

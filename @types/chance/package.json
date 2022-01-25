@@ -1,0 +1,69 @@
+{
+  "_from": "@types/chance@^1.0.2",
+  "_id": "@types/chance@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-S1VWROFGexiUYyBFsP0NRjp6PkJ4rKECQ3HQJ0cJKW/2BcNyas9lXATRdnTNnN4CsICjEXTltAalAo8dJQQLKg==",
+  "_location": "/@types/chance",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/chance@^1.0.2",
+    "name": "@types/chance",
+    "escapedName": "@types%2fchance",
+    "scope": "@types",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "/instagram-private-api"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/chance/-/chance-1.0.8.tgz",
+  "_shasum": "48e0a5648f54487a9128915fe090154fb1a2f348",
+  "_spec": "@types/chance@^1.0.2",
+  "_where": "E:\\1\\node_modules\\instagram-private-api",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Chris Bowdon",
+      "url": "https://github.com/cbowdon"
+    },
+    {
+      "name": "Brice BERNARD",
+      "url": "https://github.com/brikou"
+    },
+    {
+      "name": "Carlos Sanchez",
+      "url": "https://github.com/cafesanu"
+    },
+    {
+      "name": "Colby M. White",
+      "url": "https://github.com/colbywhite"
+    },
+    {
+      "name": "Zachary Dow",
+      "url": "https://github.com/NewDark90"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for Chance",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/chance",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/chance"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "452ac66dbf0a0c57c2b810cd0c4fcd040e204d598979a26a68893ea7810261ec",
+  "version": "1.0.8"
+}

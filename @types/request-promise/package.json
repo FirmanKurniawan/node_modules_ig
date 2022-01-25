@@ -1,0 +1,72 @@
+{
+  "_from": "@types/request-promise@^4.1.43",
+  "_id": "@types/request-promise@4.1.45",
+  "_inBundle": false,
+  "_integrity": "sha512-KFagTY/a7CzAj86DkhaAtqP0ViYTNam+CfEokSwtPFUIuq9Qrq+Rq2X4nuaB6OJmM2s0xWeiS085Ro7vR0tt9Q==",
+  "_location": "/@types/request-promise",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/request-promise@^4.1.43",
+    "name": "@types/request-promise",
+    "escapedName": "@types%2frequest-promise",
+    "scope": "@types",
+    "rawSpec": "^4.1.43",
+    "saveSpec": null,
+    "fetchSpec": "^4.1.43"
+  },
+  "_requiredBy": [
+    "/instagram-private-api"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/request-promise/-/request-promise-4.1.45.tgz",
+  "_shasum": "7fcdd39fd920674ab7bfb44197270f225fb4e585",
+  "_spec": "@types/request-promise@^4.1.43",
+  "_where": "E:\\1\\node_modules\\instagram-private-api",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Christopher Glantschnig",
+      "url": "https://github.com/cglantschnig"
+    },
+    {
+      "name": "Joe Skeen",
+      "url": "https://github.com/joeskeen"
+    },
+    {
+      "name": "Aya Morisawa",
+      "url": "https://github.com/AyaMorisawa"
+    },
+    {
+      "name": "Matt R. Wilson",
+      "url": "https://github.com/mastermatt"
+    },
+    {
+      "name": "Sergey Bakulin",
+      "url": "https://github.com/vansergen"
+    }
+  ],
+  "dependencies": {
+    "@types/bluebird": "*",
+    "@types/request": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for request-promise",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/request-promise",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/request-promise"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.2",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "784aed627b6303533bf7e875bf124ba7e49794e90600ef42eecfc7ab37c133e0",
+  "version": "4.1.45"
+}
